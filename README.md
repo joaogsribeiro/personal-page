@@ -6,9 +6,10 @@ O objetivo central é aplicar conceitos de estruturação de páginas, estiliza�
 
 ## 🌐 Acesso ao Projeto
 
-**Acesse a versão em produção (GitHub Pages):** [INSERIR_LINK_AQUI]
+**Acesse a versão em produção (GitHub Pages):**
 
-*(Nota: O link principal contém o diretório raiz. Acesse as pastas `/versao_bootstrap` e `/versao_bulma` para visualizar cada implementação).*
+- [Versão Bootstrap](https://joaogsribeiro.github.io/personal-page/versao_bootstrap/index.html)
+- [Versão Bulma](https://joaogsribeiro.github.io/personal-page/versao_bulma/index.html)
 
 ## ⚙️ Tecnologias e Frameworks Utilizados
 
